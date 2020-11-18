@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm doing my best.
+
+- 🌱 I’m currently learning Spring
+- ⚡ Fun fact: I'm always studying Java
