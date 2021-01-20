@@ -20,4 +20,4 @@ I'm doing my best.
 - 🌱 I’m currently learning Spring
 - ⚡ Fun fact: I'm always studying Java
 
-Golten time lover.
+Golden time lover.
