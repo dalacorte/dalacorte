@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +18,10 @@ Here are some ideas to get you started:
 
 I'm doing my best.
 
-- 🌱 I’m currently learning Spring
-- ⚡ Fun fact: I'm always studying Java
+- 🔭 I’m currently working on Talkcomm
+- 🌱 I’m currently learning C#
+- 🤔 I’m looking for help with Angular
+- 📫 How to reach me: tt @dalacortedev
+- ⚡ Fun fact: I'm always studying POO
 
   🌺🌺🌺
