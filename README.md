@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm doing my best.
   
-- 🔭 I’m currently working on Talkcomm
+- 🔭 I’m currently working on Talk
 - 🌱 I’m currently learning C#
 - 🤔 I’m looking for help with Angular
 - 📫 How to reach me: tt @dalacortedev
