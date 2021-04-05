@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,5 +22,3 @@ I'm doing my best.
 - 🤔 I’m looking for help with Angular
 - 📫 How to reach me: tt @dalacortedev
 - ⚡ Fun fact: I'm always studying OOP
-
-  🌺🌺🌺
