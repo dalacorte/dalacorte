@@ -22,3 +22,5 @@ I'm doing my best.
 - 🤔 I’m looking for help with Angular
 - 📫 How to reach me: tt @dalacortedev
 - ⚡ Fun fact: I'm always studying OOP
+
+抜け忍
