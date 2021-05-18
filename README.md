@@ -1,5 +1,4 @@
 <img align="left"  src="https://i.ibb.co/9v2P3zv/download.pngf"/>
-<img align="right" height="150" width="150"src="https://i.ibb.co/NT1Yznt/download2.png"/>
 <br/>
 
 ```diff
