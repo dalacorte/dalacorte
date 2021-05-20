@@ -1,5 +1,3 @@
-<img align="left"  src="https://i.ibb.co/9v2P3zv/download.pngf"/>
-<br/>
 
 ```diff
 Programador Orientado a Ódio
