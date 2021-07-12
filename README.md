@@ -7,6 +7,5 @@ Programador Orientado a Ódio
 + 20 years old
 ! Nukenin
 # 抜け忍
-# 忍
 
 ```
