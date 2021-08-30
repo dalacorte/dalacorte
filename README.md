@@ -5,10 +5,10 @@
 ```diff
 Programador Orientado a Ódio
 
-@@I'm currently working on Talk@@
-- Living in São Paulo, Brazil 🇧🇷.
-+ 20 years old
-! Nukenin
-# 抜け忍
+@@Occupation: I'm currently working on Talk@@
+- Location: Living in São Paulo, Brazil 🇧🇷.
++ Level: 20
+! Type: Developer
+# Skills: Code and Hacking
 
 ```
