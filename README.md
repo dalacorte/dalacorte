@@ -1,7 +1,3 @@
-<p align="center">
-<img  src="https://count.getloli.com/get/@dalacorte?theme=rule34">
-</p>
-  
 ```diff
 Programador Orientado a Ódio
 
