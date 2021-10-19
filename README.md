@@ -8,7 +8,7 @@ class About extends Developer {
     work = 'Talk';
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
     languages = ['Assembly', 'C', 'C++', 'C#', 'TypeScript'];
     frameworks = ['.NET'];
 }
