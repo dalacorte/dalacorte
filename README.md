@@ -1,10 +1,15 @@
-```diff
-Programador Orientado a Ódio
+```js
+import Developer from 'Dalacorte';
 
-@@Occupation: I'm currently working on Talk@@
-- Location: Living in São Paulo, Brazil 🇧🇷.
-+ Level: 20
-! Type: Developer
-# Skills: Code and Hacking
+class About extends Developer {
+    name = 'Victor Dalacôrte';
+    skill = 'Back-end Developer';
+    local = 'São Paulo';
+    work = 'Talk';
+}
 
+class Skills extends Desenvolvedor {
+    languages = ['C', 'C++', 'C#', 'TypeScript', 'Assembly'];
+    frameworks = ['.NET'];
+}
 ```
