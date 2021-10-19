@@ -9,7 +9,7 @@ class About extends Developer {
 }
 
 class Skills extends Desenvolvedor {
-    languages = ['C', 'C++', 'C#', 'TypeScript', 'Assembly'];
+    languages = ['Assembly', 'C', 'C++', 'C#', 'TypeScript'];
     frameworks = ['.NET'];
 }
 ```
