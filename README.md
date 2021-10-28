@@ -1,3 +1,7 @@
+```sh
+> 0xFF
+```
+
 ```js
 import Developer from 'Dalacorte';
 
