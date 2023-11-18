@@ -1,5 +1,5 @@
 ```sh
-> 255
+> #!/bin/bash
 ```
 
 <div align="center">  
